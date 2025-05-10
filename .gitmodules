@@ -1,6 +1,6 @@
-[submodule "kernel"]
-	path = kernel
+[submodule "src/kernel"]
+	path = src/kernel
 	url = https://github.com/gingrspacecadet/kraken
-[submodule "nautilus"]
-	path = nautilus
+[submodule "src/bootloader"]
+	path = src/bootloader
 	url = https://github.com/gingrspacecadet/nautilus
