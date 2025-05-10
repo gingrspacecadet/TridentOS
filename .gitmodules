@@ -1,0 +1,6 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/gingrspacecadet/kraken
+[submodule "nautilus"]
+	path = nautilus
+	url = https://github.com/gingrspacecadet/nautilus
