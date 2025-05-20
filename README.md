@@ -1,15 +1,12 @@
-# nanobyte_os
-This repo contains the code from the ["Building an OS"](https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN) tutorial on the ["Nanobyte"](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA) YouTube channel.
+# TridentOS
 
-This branch contains the code as written in [Part 6 - FAT subdirectory support](https://youtu.be/7CrUM8Uf9ho), with some minor bug fixes:
-
-* fixed bochs configuration
+This is a silly little project. Do not expect it to work.
 
 ## Prerequisites
 
 The project requires a Unix-like environment. If you are using Windows, there are various ways of setting one up (WSL, a Linux virtual machine, Cygwin, MSYS2). I recommend using WSL, which is the [easiest to setup](https://learn.microsoft.com/en-us/windows/wsl/install).
 
-For Part 6, you need the following tools:
+You need the following tools:
 
 * `make`
 * `nasm`
@@ -38,9 +35,3 @@ For Part 6, you need the following tools:
 * run `./debug.sh`
 
 **Troubleshooting**: Bochs has proven to be pretty unreliable. Check [this article](https://github.com/nanobyte-dev/nanobyte_os/wiki/Frequent-issues#bochs-doesnt-work) for some troubleshooting tips.
-
-## Links
-
-* [YouTube](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
-* [Discord channel](https://discord.gg/RgHc5XrCEw)
-* [Patreon](https://www.patreon.com/nanobyte)
